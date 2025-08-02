@@ -35,7 +35,7 @@ cd Simple-Calculator
 
 2. **Run the Program**  
 ```bash
-python contact_manager.py
+python contact.py
 ```
 
 ---
@@ -62,9 +62,9 @@ Follow on-screen options:
 ## 🗂️ File Structure
 
 ```
-contact-manager/
+Simple-Calculator/
 │
-├── contact_manager.py  # Main Python script
+├── contact.py  # Main Python script
 ├── README.md           # Project description and usage
 ```
 
