@@ -29,8 +29,8 @@ Make sure you have:
 
 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/contact-manager.git
-cd contact-manager
+git clone https://github.com/ArunKrish1624/Simple-Calculator.git
+cd Simple-Calculator
 ```
 
 2. **Run the Program**  
