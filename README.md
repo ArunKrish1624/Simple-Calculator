@@ -1,4 +1,4 @@
-# 📇 Contact Manager (CLI-Based)
+# 📇 Simple Contact Manager (CLI-Based)
 
 A simple, interactive Python-based Contact Manager that runs in the terminal.  
 Allows users to **add**, **edit**, and **view** contacts with a clean menu system.
